@@ -138,6 +138,24 @@ body {
     height: 300px;
 
 }
+.green{
+     position: absolute;
+    left: -120px;
+    bottom: -90px;
+    width: 120%;
+    height: 300px;
+
+}
+.green{
+    position: absolute;
+    left: -0;
+    bottom: -70px;
+    width: 85%;
+    height: 200px;
+    background: #5267df;
+    border-bottom-left-radius: 200px;
+    z-index: 1;
+}
 
 .features {
     align-items: center;
